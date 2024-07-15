@@ -2,7 +2,7 @@
 
 ### Bike Sales Dashboard
 
-![Bike Sales Dashboard](images/BikeSalesImage.png)
+![Bike Sales Dashboard](Bike-Sales-Dashboard/BikeSalesImage.png)
 
 Description: This dashboard visualizes sales data for bikes, providing insights into sales trends, product performance, and customer demographics.
 
