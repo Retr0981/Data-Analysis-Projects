@@ -8,6 +8,6 @@ Description: This dashboard visualizes sales data for bikes, providing insights 
 
 ### Revenue vs. Target Dashboard
 
-![Revenue vs. Target Dashboard]([images/RevenueVrsTargetImage.png](https://github.com/Retr0981/Data-Analysis-Projects/blob/main/Excel/RevenueVrsTarget-Dashboard/RevenueVrsTargetImage.png))
+![Revenue vs. Target Dashboard](Excel/Bike-Sales-Dashboard/RevenueVrsTargetImage.png)
 
 Description: This dashboard compares actual revenue against target goals, highlighting performance metrics and areas needing improvement.
