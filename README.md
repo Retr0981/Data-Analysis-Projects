@@ -1,6 +1,10 @@
 # Data-Analysis-Projects
 Welcome to my GitHub repository featuring a diverse range of data analysis projects across Excel, SQL, Tableau, Power BI, and Python. Each project showcases my expertise in leveraging these tools to extract insights, visualize data, and drive informed decision-making.
 
+
+### 4. SQL Data Analysis
+This section showcases detailed SQL queries and analysis focused on data cleaning and data exploration. It demonstrates proficiency in data manipulation, aggregation, and complex joins, ensuring data is accurate and insights are meaningful.
+
 ### Bike Sales Dashboard
 
 ![Bike Sales Dashboard](Excel/Bike-Sales-Dashboard/BikeSalesImage.png)
