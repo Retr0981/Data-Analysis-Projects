@@ -41,5 +41,6 @@ This project leverages Tableau to provide comprehensive insights into Airbnb lis
 Access the dashboards to explore the data and gain insights into market trends, helping hosts make informed decisions.
 
 ## Dashboard Link
-[View the full dashboard](https://public.tableau.com/app/profile/david.armah1253/viz/DavidNiiArmahsAirbnbFullProjectinTableau/Dashboard2?publish=yes)
 ![Airbnb Project in Tableau](/Tableau/tableau.png)
+[View the full dashboard](https://public.tableau.com/app/profile/david.armah1253/viz/DavidNiiArmahsAirbnbFullProjectinTableau/Dashboard2?publish=yes)
+
