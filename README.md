@@ -13,7 +13,7 @@ Following data cleaning, I employed SQL's querying capabilities to explore the d
 ### Overview
 This repository contains two Excel projects: a Bike Sales Dashboard and a Revenue vs. Target Dashboard. Both projects utilize Excel's powerful data visualization and analysis tools to provide comprehensive insights into sales and revenue performance.
 
-## Projects in Excel
+## Dashboards in Excel
 ### Bike Sales Dashboard
 
 ![Bike Sales Dashboard](Excel/Bike-Sales-Dashboard/BikeSalesImage.png)
@@ -40,7 +40,7 @@ This project leverages Tableau to provide comprehensive insights into Airbnb lis
 ## How to Use
 Access the dashboards to explore the data and gain insights into market trends, helping hosts make informed decisions.
 
-## Dashboard Link
+## Dashboard 
 ![Airbnb Project in Tableau](/Tableau/tableau.png)
 [View the full dashboard](https://public.tableau.com/app/profile/david.armah1253/viz/DavidNiiArmahsAirbnbFullProjectinTableau/Dashboard2?publish=yes)
 
