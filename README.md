@@ -8,6 +8,10 @@ In my SQL project, I concentrated on two essential phases: data cleaning and exp
 Following data cleaning, I employed SQL's querying capabilities to explore the dataset. This exploration phase involved querying the data to uncover patterns, trends, and relationships within the dataset itself. By focusing on these fundamental aspects of data preparation and analysis, the project demonstrated SQL's effectiveness in enhancing data quality and facilitating meaningful insights for decision-making processes.
 
 ## Excel 
+### Overview
+This repository contains two Excel projects: a Bike Sales Dashboard and a Revenue vs. Target Dashboard. Both projects utilize Excel's powerful data visualization and analysis tools to provide comprehensive insights into sales and revenue performance.
+
+## Projects in Excel
 ### Bike Sales Dashboard
 
 ![Bike Sales Dashboard](Excel/Bike-Sales-Dashboard/BikeSalesImage.png)
