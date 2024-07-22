@@ -27,20 +27,20 @@ Description: This dashboard visualizes sales data for bikes, providing insights 
 Description: This dashboard compares actual revenue against target goals, highlighting performance metrics and areas needing improvement.
 
 
-#  Tableau
+##  Tableau
 
-## Overview
+### Overview
 This project leverages Tableau to provide comprehensive insights into Airbnb listings. The analysis focuses on key metrics such as rental prices, occupancy rates, and geographic distribution, offering valuable information for optimizing listings.
 
-## Features
+###Features
 - Interactive dashboards for dynamic data exploration
 - Analysis of average nightly rates and review scores
 - Visualization of booking patterns and top-performing neighborhoods
 
-## How to Use
+### How to Use
 Access the dashboards to explore the data and gain insights into market trends, helping hosts make informed decisions.
 
-## Dashboard 
+### Dashboard 
 ![Airbnb Project in Tableau](/Tableau/tableau.png)
 [View the full dashboard](https://public.tableau.com/app/profile/david.armah1253/viz/DavidNiiArmahsAirbnbFullProjectinTableau/Dashboard2?publish=yes)
 
