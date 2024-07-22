@@ -39,7 +39,7 @@ This Tableau project by David Nii Armah(me) provides insights into Airbnb listin
 - Revenue for Year (2016): Track revenue trends throughout 2016.
 
 #### How to Use
-Access the interactive dashboards on my website to explore market trends and make data-driven decisions for optimizing Airbnb listings.
+Access the interactive dashboards in the below to explore market trends and make data-driven decisions for optimizing Airbnb listings.
 
 ### Dashboard 
 ![Airbnb Project in Tableau](/Tableau/tableau.png)
