@@ -30,15 +30,16 @@ Description: This dashboard compares actual revenue against target goals, highli
 ##  Tableau
 
 ### Overview
-This project leverages Tableau to provide comprehensive insights into Airbnb listings. The analysis focuses on key metrics such as rental prices, occupancy rates, and geographic distribution, offering valuable information for optimizing listings.
+This Tableau project by David Nii Armah(me) provides insights into Airbnb listings, focusing on average rental prices, geographic distribution, and revenue trends.
 
 Features
-- Interactive dashboards for dynamic data exploration
-- Analysis of average nightly rates and review scores
-- Visualization of booking patterns and top-performing neighborhoods
+- Average Price Per Bedroom: Prices increase with the number of bedrooms.
+- Number of Listings by Bedrooms: Distribution of listings categorized by bedroom count.
+- Price by Zipcode: Variation in average prices across different zip codes.
+- Revenue for Year (2016): Track revenue trends throughout 2016.
 
 How to Use
-Access the dashboards to explore the data and gain insights into market trends, helping hosts make informed decisions.
+Access the interactive dashboards on my website to explore market trends and make data-driven decisions for optimizing Airbnb listings.
 
 ### Dashboard 
 ![Airbnb Project in Tableau](/Tableau/tableau.png)
