@@ -39,9 +39,26 @@ This Tableau project by David Nii Armah(me) provides insights into Airbnb listin
 - Revenue for Year (2016): Track revenue trends throughout 2016.
 
 #### How to Use
-Access the interactive dashboards in the below to explore market trends and make data-driven decisions for optimizing Airbnb listings.
+Access the interactive dashboards in below to explore market trends and make data-driven decisions for optimizing Airbnb listings.
 
 ### Dashboard 
 ![Airbnb Project in Tableau](/Tableau/tableau.png)
 [View the full dashboard](https://public.tableau.com/app/profile/david.armah1253/viz/DavidNiiArmahsAirbnbFullProjectinTableau/Dashboard2?publish=yes)
+
+## Power BI
+
+### Data Professional Survey Breakdown
+
+This Power BI project analyzes survey data from data professionals, providing insights into demographics, job satisfaction, salaries, and more.
+
+#### Key Insights
+- Country of Survey Takers: Distribution of survey participants by country.
+- Average Salary by Job Title: Comparative analysis of salaries for various data-related roles.
+- Favorite Programming Languages: Popularity of programming languages among different job titles.
+- Difficulty to Break Into Data: Participants' perspectives on the difficulty of entering the data field.
+- Happiness with Work-Life Balance and Salary: Measures of job satisfaction related to work-life balance and salary.
+
+### Dashboard
+![Data Professional Survey Breakdown](PowerBI/data-survey.png)
+
 
