@@ -62,3 +62,8 @@ This Power BI project analyzes survey data from data professionals, providing in
 ![Data Professional Survey Breakdown](PowerBI/data-survey.png)
 
 
+## Python Projects
+### Amazon Web Scraper Project
+This Python project involves web scraping Amazon product data to analyze various product metrics such as pricing, ratings, and availability. The project is divided into two main components: a Jupyter Notebook for exploratory data analysis, which allows for interactive data visualization and initial insights, and a Python script designed for automated data extraction, which runs on a schedule to gather updated product information continuously. The script uses libraries such as BeautifulSoup for parsing HTML, requests for handling HTTP requests, and pandas for data manipulation and storage. This setup enables users to track product trends over time and make data-driven decisions based on real-time information.
+
+
