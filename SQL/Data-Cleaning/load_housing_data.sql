@@ -1,5 +1,4 @@
-IF OBJECT_ID('DavidNiiArmahPortfolio.dbo.NashvilleHousing', 'U') IS NOT NULL 
-   DROP TABLE DavidNiiArmahPortfolio.dbo.NashvilleHousing;
+
 
 CREATE TABLE DavidNiiArmahPortfolio.dbo.NashvilleHousing (
     UniqueID VARCHAR(20),
